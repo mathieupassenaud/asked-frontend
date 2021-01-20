@@ -2,6 +2,8 @@
 
 Asked - Can we meet with one question ?
 
+Test the app at https://asked.live
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
